@@ -16,7 +16,7 @@ sections:
         has_icon: true
         icon: arrow-left
         new_window: true
-    image: images/oie_Gn9FW3poqDVi.png
+    image: images/oie_DbyltXRTpE7x.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: sixty
