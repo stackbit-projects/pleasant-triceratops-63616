@@ -10,7 +10,7 @@ sections:
         style: primary
         has_icon: true
         new_window: true
-      - label: Google Play
+      - label: Telegram
         url: /pricing
         style: secondary
     image: images/hero.svg
