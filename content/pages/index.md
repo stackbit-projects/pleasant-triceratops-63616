@@ -5,7 +5,7 @@ sections:
     title: ⭐BET EXCHANGE OFFICIAL⭐
     subtitle: Khelo kamaao jeeto aur hatho hath lo..
     actions:
-      - label: App Store
+      - label: Whatsapp
         url: /pricing
         style: primary
       - label: Google Play
