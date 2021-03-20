@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: ⭐BET EXCHANGE OFFICIAL⭐
-    subtitle: Khelo kamaao jeeto aur hatho hath lo..
     actions:
       - label: Whatsapp
         url: 'https://wa.me/+919987129247'
