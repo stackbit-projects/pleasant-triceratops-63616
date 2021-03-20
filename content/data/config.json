@@ -47,7 +47,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "App Store",
+                "label": "whatsApp",
                 "url": "/pricing",
                 "style": "primary"
             },
