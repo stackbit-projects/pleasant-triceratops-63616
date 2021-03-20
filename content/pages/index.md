@@ -11,7 +11,7 @@ sections:
         has_icon: true
         new_window: true
       - label: Telegram
-        url: /pricing
+        url: 'https://t.me/joinchat/4JLfaADLlLcyY2Rl '
         style: secondary
         has_icon: true
         icon: linkedin
