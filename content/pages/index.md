@@ -25,7 +25,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/ezgif-2-f5f8ba003360.gif
+    background_image: images/388261.jpg
   - type: grid_section
     title: What's Great About us?
     subtitle: In a Glance
