@@ -9,6 +9,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        new_window: true
       - label: Google Play
         url: /pricing
         style: secondary
