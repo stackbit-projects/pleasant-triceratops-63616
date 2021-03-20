@@ -14,7 +14,7 @@ sections:
         url: 'https://t.me/joinchat/4JLfaADLlLcyY2Rl '
         style: secondary
         has_icon: true
-        icon: linkedin
+        icon: arrow-left
         new_window: true
     image: images/hero.svg
     image_alt: Hero section placeholder image
