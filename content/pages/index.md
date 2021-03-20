@@ -14,6 +14,7 @@ sections:
         url: /pricing
         style: secondary
         has_icon: true
+        icon: linkedin
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: left
