@@ -4,10 +4,6 @@ sections:
   - type: hero_section
     title: ⭐BET EXCHANGE OFFICIAL⭐
     subtitle: Khelo kamaao jeeto aur hatho hath lo..
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
     actions:
       - label: App Store
         url: /pricing
