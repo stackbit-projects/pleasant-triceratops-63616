@@ -15,6 +15,7 @@ sections:
         style: secondary
         has_icon: true
         icon: linkedin
+        new_window: true
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: left
