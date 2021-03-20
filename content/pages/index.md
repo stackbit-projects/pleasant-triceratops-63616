@@ -24,7 +24,9 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image: images/388261.jpg
-    subtitle: khelo jeeto
+    subtitle: >-
+      Khelo kamaao jeeto aur hatho hath lo..Minimum Id 1000₹Minimum Withdawal
+      1000₹
   - type: grid_section
     title: What's Great About us?
     subtitle: In a Glance
