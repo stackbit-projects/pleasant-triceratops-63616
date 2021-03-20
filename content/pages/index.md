@@ -25,8 +25,8 @@ sections:
     background_color: primary
     background_image: images/388261.jpg
     subtitle: >-
-      Khelo kamaao jeeto aur hatho hath lo.. Cricket ,Tennis ,Soccer ,Ten Patti
-      etc   Premium Sites AvailableMinimum Id 1000₹Minimum Withdawal 1000₹
+      Khelo kamaao jeeto aur hatho hath lo.. |  Premium Sites AvailableMinimum
+      Id 1000₹Minimum Withdawal 1000₹
   - type: grid_section
     title: What's Great About us?
     subtitle: In a Glance
