@@ -24,6 +24,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image: images/388261.jpg
+    subtitle: khelo jeeto
   - type: grid_section
     title: What's Great About us?
     subtitle: In a Glance
