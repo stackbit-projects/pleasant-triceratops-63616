@@ -8,6 +8,7 @@ sections:
       - label: Whatsapp
         url: /pricing
         style: primary
+        has_icon: true
       - label: Google Play
         url: /pricing
         style: secondary
