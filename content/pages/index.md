@@ -6,7 +6,7 @@ sections:
     subtitle: Khelo kamaao jeeto aur hatho hath lo..
     actions:
       - label: Whatsapp
-        url: /pricing
+        url: 'https://wa.me/+919987129247'
         style: primary
         has_icon: true
         new_window: true
