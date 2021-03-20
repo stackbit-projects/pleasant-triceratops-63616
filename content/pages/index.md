@@ -23,7 +23,7 @@ sections:
     media_width: sixty
     align: left
     padding_top: large
-    padding_bottom: none
+    padding_bottom: small
     background_color: primary
   - type: grid_section
     title: What's Great About us?
