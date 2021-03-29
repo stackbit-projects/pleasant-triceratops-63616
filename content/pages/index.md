@@ -23,7 +23,6 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/background.jpg
     subtitle: >-
       Khelo > Kamaao > Jeeto > aur Haatho Haath le jao... |  Premium Sites
       Available | Minimum Id 1000₹Minimum Withdawal 1000₹
