@@ -52,9 +52,8 @@ sections:
         image_position: top
       - title: Fastest Service
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: |
+          5 lakh payments done in a single day
         content_align: left
         actions:
           - label: Learn More
