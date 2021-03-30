@@ -112,7 +112,6 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
-    title: Regain Control of your To Dos
     content: |
       Follow us to keep in touch...
     actions:
