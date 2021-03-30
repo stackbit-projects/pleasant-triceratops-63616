@@ -115,9 +115,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Regain Control of your To Dos
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: |
+      Follow us to keep in touch...
     actions:
       - label: App Store
         url: /pricing
