@@ -95,9 +95,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
+      - title: “Thank you ji! bada amount jeetne par ”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
