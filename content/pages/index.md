@@ -27,7 +27,7 @@ sections:
       Khelo > Kamaao > Jeeto > aur Haatho Haath le jao... |  Premium Sites
       Available | Minimum Id 1000₹Minimum Withdawal 1000₹
   - type: grid_section
-    title: What's Great About us?
+    title: features
     subtitle: In a Glance
     align: center
     grid_items:
