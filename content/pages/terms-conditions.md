@@ -21,18 +21,22 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-**source:**https://mybetting.in/is-betting-legal-in-india
+\*\*source:\*\*https://mybetting.in/is-betting-legal-in-india
 
-****
+***
 
 **Answer:** Yes, online betting is legal in India.\*\*
-\*\*LEGAL DISCLAIMER
+
 
 **There are no federal laws against online betting in India.**
 
 Each state may decide if they want to impose laws on online betting. And so far, only a few states in India have made laws against online betting.
 
 In summary, this means that online betting is legal in India, with the exception of a few states.
+
+
+
+\*\*LEGAL DISCLAIMER
 
 \*\*\*Please be advised: \**We are not lawyers, advocates, or legal experts.*
 
