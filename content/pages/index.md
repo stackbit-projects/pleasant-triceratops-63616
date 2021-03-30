@@ -23,7 +23,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     subtitle: Minimum Id 1000₹Minimum Withdawal 1000₹
-    background_image: images/hero-sportsbook.jpeg
+    background_image: images/background.jpg
   - type: grid_section
     title: features
     subtitle: In a Glance
