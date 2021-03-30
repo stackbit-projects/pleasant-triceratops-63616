@@ -119,7 +119,7 @@ sections:
       - label: Instagram
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Facebook
         url: /pricing
         style: secondary
         has_icon: false
