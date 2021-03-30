@@ -70,9 +70,8 @@ sections:
         image_position: top
       - title: Daily withdrawls!
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: |
+          5% bonus on every refill on sunday, festival bonuses on our channel!
         content_align: left
         actions:
           - label: Learn More
