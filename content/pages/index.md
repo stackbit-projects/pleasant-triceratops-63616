@@ -31,7 +31,7 @@ sections:
     subtitle: In a Glance
     align: center
     grid_items:
-      - title: ID Open minimum
+      - title: Trusted Service
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
