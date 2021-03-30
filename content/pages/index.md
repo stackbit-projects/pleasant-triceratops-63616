@@ -68,7 +68,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Daily withdrawls!
+      - title: Bonus Days!
         title_align: left
         content: |
           5% bonus on every refill on sunday, festival bonuses on our channel!
