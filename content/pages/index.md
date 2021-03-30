@@ -98,7 +98,7 @@ sections:
       - title: >-
           “Thank you ji!! mujhe k****book.com se blok kar diya tha kyunki mai
           jeet gya, apke saath jeetke koi tension nai”
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: //siddhusahab44
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
