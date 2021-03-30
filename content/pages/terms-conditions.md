@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Is online betting legal in india?
 seo:
   title: Terms and Conditions
   description: This is the terms and conditions page
