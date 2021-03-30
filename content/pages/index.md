@@ -50,7 +50,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Fastest Service
+      - title: 'Daily Withdrawals, no holidays!'
         title_align: left
         content: |
           5 lakh payments done in a single day
