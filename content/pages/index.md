@@ -95,7 +95,9 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “Thank you ji! bada amount jeetne par ”
+      - title: >-
+          “Thank you ji!! mujhe k****book.com se blok kar diya tha kyunki mai
+          jeet gya, apke saath jeetke koi tension nai”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
