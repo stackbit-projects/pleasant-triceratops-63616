@@ -116,7 +116,7 @@ sections:
     content: |
       Follow us to keep in touch...
     actions:
-      - label: App Store
+      - label: Instagram
         url: /pricing
         style: primary
       - label: Google Play
