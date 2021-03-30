@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: ⭐BET EXCHANGE OFFICIAL⭐
     actions:
       - label: Whatsapp
         url: 'https://wa.me/+919987129247'
