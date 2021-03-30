@@ -31,7 +31,7 @@ sections:
     subtitle: In a Glance
     align: center
     grid_items:
-      - title: Trusted Service
+      - title: Trusted Service!
         title_align: left
         content: |+
           over 7o,ooo trusted customers connected!
