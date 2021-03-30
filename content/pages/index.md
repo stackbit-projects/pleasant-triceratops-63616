@@ -22,9 +22,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    subtitle: >-
-      Khelo > Kamaao > Jeeto > aur Haatho Haath le jao... |  Premium Sites
-      Available | Minimum Id 1000₹Minimum Withdawal 1000₹
+    subtitle: Minimum Id 1000₹Minimum Withdawal 1000₹
     background_image: images/hero-sportsbook.jpeg
   - type: grid_section
     title: features
