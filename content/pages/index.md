@@ -209,17 +209,6 @@ sections:
           could find a friend in this book. Eat sleep and get a payment from Bet
           exchange official . It has become my daily routine now.”
         subtitle: //harshdreamcatcher007
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
