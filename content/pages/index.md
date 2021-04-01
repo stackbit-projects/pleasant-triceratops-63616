@@ -28,7 +28,7 @@ sections:
     subtitle: ' '
     actions:
       - label: Minimum ID 1000₹
-        url: '#'
+        url: 'https://wa.link/waj8pp'
         style: secondary
         has_icon: false
         icon: arrow-left
