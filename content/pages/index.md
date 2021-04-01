@@ -47,7 +47,7 @@ sections:
         type: action
       - label: We Are Available 24*7
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
