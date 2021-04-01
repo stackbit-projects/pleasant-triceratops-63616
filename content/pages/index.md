@@ -152,7 +152,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
-    title: customer ki aawaaz
+    title: Customer ki aawaaz
   - type: cta_section
     content: |
       Follow us to keep in touch...
