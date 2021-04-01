@@ -219,9 +219,8 @@ sections:
         align: left
         type: feature
       - title: >-
-          “Iam playing with karna online book since 2016, i never faced any
-          issue with karna book and it was the best online book in whole
-          market.”
+          “Iam playing with you since 2016, i never faced any issue with you and
+          it was the best online book in whole market.”
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
