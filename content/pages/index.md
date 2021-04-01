@@ -136,7 +136,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
