@@ -138,7 +138,7 @@ sections:
   - title: Premium Exchanges!
     features:
       - title: Parkerexch9.com
-        subtitle: lorem-ipsum
+        subtitle: 'Id :- DemobetPw :- 1234'
         content: >-
           ## Lorem ipsum
 
