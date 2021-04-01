@@ -138,17 +138,11 @@ sections:
   - title: Premium Exchanges!
     features:
       - title: Parkerexch9.com
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          \<!--td {border: 1px solid #ccc;}br
+          {mso-data-placement:same-cell;}-->[Parkerexch9.com](http://Parkerexch9.com)[Prideexch9.com](http://prideexch9.com/)Dollarexch.bet[100bet.in](http://100bet.in)Id
+          :- DemobetId :- Demobet11Id :- demobetId :- 100betdemo7Pw :- 1234Pw :-
+          Dubai123 ( D capital )Pw :- 1234Pw :- Dubai123
         actions: []
         image_alt: lorem-ipsum
         media_position: top
