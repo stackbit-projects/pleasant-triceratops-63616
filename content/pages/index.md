@@ -24,7 +24,7 @@ sections:
     background_color: primary
     subtitle: Play to win!
     background_image: images/bcf059_855c5bf41cc04f2c84e298c7b656269b_mv2.webp
-  - title: lorem-ipsum
+  - title: Start with us!
     subtitle: lorem-ipsum
     actions:
       - label: Minimum ID 1000₹
