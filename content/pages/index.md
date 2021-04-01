@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    subtitle: PLay to win!
+    subtitle: Play to win!
     background_image: images/bcf059_855c5bf41cc04f2c84e298c7b656269b_mv2.webp
   - type: grid_section
     title: features
