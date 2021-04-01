@@ -25,7 +25,7 @@ sections:
     subtitle: Play to win!
     background_image: images/bcf059_855c5bf41cc04f2c84e298c7b656269b_mv2.webp
   - title: Start with us!
-    subtitle: lorem-ipsum
+    subtitle: ' '
     actions:
       - label: Minimum ID 1000₹
         url: '#'
