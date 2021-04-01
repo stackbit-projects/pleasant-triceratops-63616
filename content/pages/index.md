@@ -198,17 +198,8 @@ sections:
           “Everyday fast withdraw system is one of the best service with Bet
           exchange official online ,looking forward to go long time together.”
         subtitle: //raviraj1989
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *
         actions: []
         image_alt: lorem-ipsum
         media_position: top
