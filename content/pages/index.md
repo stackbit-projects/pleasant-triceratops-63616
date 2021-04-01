@@ -23,7 +23,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     subtitle: 'Start investing in sports, follow us to know more..'
-    background_image: images/White Basic Presentation Template.png
+    background_image: images/Black_Box.png
   - title: Start with us!
     subtitle: ' '
     actions:
