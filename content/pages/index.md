@@ -135,7 +135,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - title: Premium Exchanges!
+  - title: ' '
     features:
       - title: 'Try our premium exchanges,'
         content: |+
