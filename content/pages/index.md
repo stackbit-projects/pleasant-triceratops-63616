@@ -221,7 +221,7 @@ sections:
       - title: >-
           “Iam playing with you since 2016, i never faced any issue with you and
           it was the best online book in whole market.”
-        subtitle: lorem-ipsum
+        subtitle: //rutuja.patil1995
         content: >-
           ## Lorem ipsum
 
