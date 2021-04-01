@@ -138,31 +138,30 @@ sections:
   - title: ' '
     features:
       - title: 'Try our premium exchanges,'
-        content: |+
-          [Parkerexch9.com](http://Parkerexch9.com)
+        content: |
+          ###### [Parkerexch9.com](http://Parkerexch9.com)
 
-          *   Id :- Demobet
+          ###### Id :- Demobet
 
-          *   Pw :- 1234
+          ###### Pw :- 1234
 
-          [Prideexch9.com](http://prideexch9.com/)
+          ###### [Prideexch9.com](http://prideexch9.com/)
 
-          *   Id :- Demobet11
+          ###### Id :- Demobet11
 
-          *   Pw :- Dubai123
+          ###### Pw :- Dubai123
 
-          Dollarexch.bet
+          ###### Dollarexch.bet
 
-          *   Id :- demobet
+          ###### Id :- demobet
 
-          *   Pw :- 1234
+          ###### Pw :- 1234
 
-          [100bet.in](http://100bet.in)
+          ###### [100bet.in](http://100bet.in)
 
-          *   Id :- 100betdemo7
+          ###### Id :- 100betdemo7
 
-          *   Pw :- Dubai123<https://wa.link/waj8pp>
-
+          ###### Pw :- Dubai123<https://wa.link/waj8pp>
         actions: []
         image_alt: lorem-ipsum
         media_position: top
