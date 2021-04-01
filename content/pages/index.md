@@ -203,7 +203,7 @@ sections:
       Follow us to keep in touch...
     actions:
       - label: Instagram
-        url: /pricing
+        url: 'https://www.instagram.com/betexchange999/'
         style: primary
       - label: Facebook
         url: /pricing
