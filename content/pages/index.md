@@ -81,7 +81,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: 'https://wa.link/waj8pp'
             style: link
             has_icon: true
             icon: arrow-right
