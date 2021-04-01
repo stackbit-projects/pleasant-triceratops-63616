@@ -70,7 +70,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: grid_section
-    title: Start with us!
+    title: Trusted Online Book
     align: center
     grid_items:
       - title: Trusted Service!
