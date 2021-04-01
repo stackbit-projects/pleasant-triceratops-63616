@@ -36,7 +36,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Minimum withrawal 1000₹
+      - label: Minimum withdrawal 1000₹
         url: '#'
         style: link
         has_icon: false
