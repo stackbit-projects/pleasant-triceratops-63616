@@ -29,7 +29,8 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features",
-        "title": "New IDs are available with us,"
+        "title": "New IDs are available with us,",
+        "logo": "images/diligent-paprika.png"
     },
     "footer": {
         "logo_alt": "App logo",
