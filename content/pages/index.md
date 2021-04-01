@@ -162,16 +162,7 @@ sections:
               *   [Id :- 100betdemo7](https://wa.link/waj8pp)
 
               *   [Pw :- Dubai123](https://wa.link/waj8pp)
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
