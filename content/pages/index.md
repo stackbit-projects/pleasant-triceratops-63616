@@ -26,7 +26,16 @@ sections:
     background_image: images/bcf059_855c5bf41cc04f2c84e298c7b656269b_mv2.webp
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
