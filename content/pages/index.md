@@ -137,7 +137,7 @@ sections:
     background_color: none
   - title: Premium Exchanges!
     features:
-      - title: lorem-ipsum
+      - title: Parkerexch9.com
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
