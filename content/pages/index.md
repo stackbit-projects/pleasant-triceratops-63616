@@ -152,7 +152,6 @@ sections:
           - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: Use the below IDs to login and check. Please DON'T CHANGE PASSWORD
         media_position: top
         media_width: fifty
         align: left
