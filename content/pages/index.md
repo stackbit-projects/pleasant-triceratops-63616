@@ -9,7 +9,7 @@ sections:
         has_icon: true
         new_window: true
       - label: Telegram
-        url: 'https://t.me/joinchat/4JLfaADLlLcyY2Rl '
+        url: 'https://t.me/joinchat/4JLfaADLlLcyY2Rl'
         style: secondary
         has_icon: true
         icon: arrow-left
