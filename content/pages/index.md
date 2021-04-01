@@ -222,17 +222,6 @@ sections:
           “Iam playing with you since 2016, i never faced any issue with you and
           it was the best online book in whole market.”
         subtitle: //rutuja.patil1995
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
