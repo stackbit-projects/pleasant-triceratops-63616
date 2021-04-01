@@ -135,7 +135,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - title: lorem-ipsum
+  - title: Premium Exchanges!
     features: []
     feature_padding_vert: medium
     align: center
