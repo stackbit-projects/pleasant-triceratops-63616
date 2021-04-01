@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    subtitle: Play to win!
+    subtitle: 'Start investing in sports, follow us to know more..'
     background_image: images/White Basic Presentation Template.png
   - title: Start with us!
     subtitle: ' '
