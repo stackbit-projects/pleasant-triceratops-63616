@@ -27,7 +27,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: Minimum Withdawal 1000₹
+      - label: Minimum ID 1000₹
         url: '#'
         style: secondary
         has_icon: false
