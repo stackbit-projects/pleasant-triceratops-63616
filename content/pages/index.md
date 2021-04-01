@@ -206,7 +206,7 @@ sections:
         url: 'https://www.instagram.com/betexchange999/'
         style: primary
       - label: Facebook
-        url: /pricing
+        url: 'https://wa.link/waj8pp'
         style: secondary
         has_icon: false
         icon: arrow-left
