@@ -36,7 +36,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Minimum Id 1000₹
+      - label: Minimum widrawal 1000₹
         url: '#'
         style: link
         has_icon: false
