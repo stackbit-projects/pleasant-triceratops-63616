@@ -46,7 +46,7 @@ sections:
         no_follow: false
         type: action
       - label: We Are Available 24*7
-        url: '#'
+        url: 'https://wa.link/waj8pp'
         style: primary
         has_icon: false
         icon: arrow-left
