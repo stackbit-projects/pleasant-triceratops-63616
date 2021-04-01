@@ -137,7 +137,7 @@ sections:
     background_color: none
   - title: Premium Exchanges!
     features:
-      - title: Parkerexch9.com
+      - title: 'Try our premium exchanges,'
         content: |+
           [Parkerexch9.com](http://Parkerexch9.com)
 
