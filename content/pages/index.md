@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: Whatsapp
-        url: 'https://wa.me/+919987129247'
+        url: 'https://wa.link/waj8pp'
         style: primary
         has_icon: true
         new_window: true
