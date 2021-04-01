@@ -204,7 +204,10 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: >-
+          “I am playing from 12 years. A friend in need is a friend in deed. I
+          could find a friend in this book. Eat sleep and get a payment from Bet
+          exchange official . It has become my daily routine now.”
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
