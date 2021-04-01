@@ -191,7 +191,6 @@ sections:
         media_width: thirty-three
       - title: '"Thnq"'
         subtitle: over 5000 people daily
-        image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
         media_width: thirty-three
