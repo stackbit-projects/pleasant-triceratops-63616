@@ -25,7 +25,7 @@ sections:
     subtitle: Play to win!
     background_image: images/bcf059_855c5bf41cc04f2c84e298c7b656269b_mv2.webp
   - type: grid_section
-    title: Start whit us!
+    title: Start with us!
     align: center
     grid_items:
       - title: Trusted Service!
