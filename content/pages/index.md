@@ -245,7 +245,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: //raviraj1989
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           ##### “I am playing from 12 years. A friend in need is a friend in
