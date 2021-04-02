@@ -161,7 +161,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Screenshot 2021-04-02 at 6.42.19 AM.png
+        image: images/logo (1).png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
