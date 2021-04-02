@@ -206,6 +206,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
     title: Customer ki aawaaz
+    has_border: true
   - type: cta_section
     content: |
       Follow us to keep in touch...
