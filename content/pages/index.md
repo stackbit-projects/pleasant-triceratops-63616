@@ -228,7 +228,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: over 5000 people daily
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           ##### “Everyday fast withdraw system is one of the best service with
