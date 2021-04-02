@@ -135,9 +135,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - title: 'Try our premium exchanges,'
-    subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
