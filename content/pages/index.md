@@ -277,8 +277,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - title: over 5000 people daily
         title_align: left
         content: |
           ##### "Thnq"
