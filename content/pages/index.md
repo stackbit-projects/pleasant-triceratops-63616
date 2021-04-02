@@ -158,55 +158,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: features_section
-    features:
-      - title: >-
-          “Thank you ji!! mujhe k****book.com se blok kar diya tha kyunki mai
-          jeet gya, apke saath jeetke koi tension nai”
-        subtitle: //siddhusahab44
-        image_alt: Person 1 photo
-        media_position: right
-        media_width: thirty-three
-      - title: '"Thnq"'
-        subtitle: over 5000 people daily
-        image_alt: Person 2 photo
-        media_position: left
-        media_width: thirty-three
-      - title: >-
-          “Everyday fast withdraw system is one of the best service with Bet
-          exchange official online ,looking forward to go long time together.”
-        subtitle: //raviraj1989
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-      - title: >-
-          “I am playing from 12 years. A friend in need is a friend in deed. I
-          could find a friend in this book. Eat sleep and get a payment from Bet
-          exchange official . It has become my daily routine now.”
-        subtitle: //harshdreamcatcher007
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-      - title: >-
-          “Iam playing with you since 2016, i never faced any issue with you and
-          it was the best online book in whole market.”
-        subtitle: //rutuja.patil1995
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: small
-    background_color: secondary
-    title: Customer ki aawaaz
-    has_border: true
   - title: Customers ki Awaaz!
     subtitle: ' '
     actions: []
