@@ -214,17 +214,9 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha kyunki
+          mai jeet gya, apke saath jeetke koi tension nai”
         content_align: left
         actions: []
         actions_align: left
