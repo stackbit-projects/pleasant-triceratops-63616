@@ -212,7 +212,7 @@ sections:
     actions: []
     grid_items:
       - title: //siddhusahab44
-        subtitle: lorem-ipsum
+        subtitle: ' '
         title_align: left
         content: >
           “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha kyunki
