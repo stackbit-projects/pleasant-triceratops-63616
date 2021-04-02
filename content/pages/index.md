@@ -208,7 +208,7 @@ sections:
     title: Customer ki aawaaz
     has_border: true
   - title: Customers ki Awaaz!
-    subtitle: lorem-ipsum
+    subtitle: ' '
     actions: []
     grid_items:
       - title: //siddhusahab44
