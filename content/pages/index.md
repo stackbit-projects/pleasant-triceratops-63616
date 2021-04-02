@@ -207,7 +207,7 @@ sections:
     background_color: secondary
     title: Customer ki aawaaz
     has_border: true
-  - title: lorem-ipsum
+  - title: Custom
     subtitle: lorem-ipsum
     actions: []
     grid_items:
