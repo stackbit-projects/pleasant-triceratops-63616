@@ -247,17 +247,10 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          ##### “I am playing from 12 years. A friend in need is a friend in
+          deed. I could find a friend in this book. Eat sleep and get a payment
+          from Bet exchange official . It has become my daily routine now.”
         content_align: left
         actions: []
         actions_align: left
