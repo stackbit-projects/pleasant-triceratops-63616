@@ -139,29 +139,7 @@ sections:
     features:
       - title: 'Try our premium exchanges,'
         content: |
-          *   [Parkerexch9.com](https://wa.link/waj8pp)
-
-              *   [Id :- Demobet](https://wa.link/waj8pp)
-
-              *   [Pw :- 1234](https://wa.link/waj8pp)
-
-          *   [Prideexch9.com](https://wa.link/waj8pp)
-
-              *   [Id :- Demobet11](https://wa.link/waj8pp)
-
-              *   [Pw :- Dubai123](https://wa.link/waj8pp)
-
-          *   [Dollarexch.bet](https://wa.link/waj8pp)
-
-              *   [Id :- demobet](https://wa.link/waj8pp)
-
-              *   [Pw :- 1234](https://wa.link/waj8pp)
-
-          *   [100bet.in](https://wa.link/waj8pp)
-
-              *   [Id :- 100betdemo7](https://wa.link/waj8pp)
-
-              *   [Pw :- Dubai123](https://wa.link/waj8pp)
+          ![](/images/Screenshot%202021-04-02%20at%206.54.33%20AM.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
