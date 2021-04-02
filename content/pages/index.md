@@ -215,8 +215,8 @@ sections:
         subtitle: ' '
         title_align: left
         content: >
-          “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha kyunki
-          mai jeet gya, apke saath jeetke koi tension nai”
+          ##### “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha
+          kyunki mai jeet gya, apke saath jeetke koi tension nai”
         content_align: left
         actions: []
         actions_align: left
