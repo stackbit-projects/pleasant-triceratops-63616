@@ -264,17 +264,9 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          ##### “I am playing with you since 2016, I never faced any issue with
+          you and it was the best online book in the whole market.”
         content_align: left
         actions: []
         actions_align: left
