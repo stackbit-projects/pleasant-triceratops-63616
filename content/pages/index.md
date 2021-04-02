@@ -137,7 +137,7 @@ sections:
     background_color: none
   - actions: []
     grid_items: []
-    grid_cols: three
+    grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
