@@ -230,17 +230,10 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          ##### “Everyday fast withdraw system is one of the best service with
+          Bet exchange official online ,looking forward to go long time
+          together.”
         content_align: left
         actions: []
         actions_align: left
