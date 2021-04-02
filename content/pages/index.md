@@ -151,7 +151,7 @@ sections:
         image: images/logo (1).png
         subtitle: 100bet.in
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Parkerexch9.com
         title_align: left
         content: >-
           ## Lorem ipsum
